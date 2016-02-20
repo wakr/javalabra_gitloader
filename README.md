@@ -1,2 +1,10 @@
 # javalabra_gitloader
-Repository downloader for javalabra-course
+
+Contains simple script for downloading every repository from repos.txt (can actually be any .txt-file).
+
+Example usage:
+
+```./javalab_loader.sh repost.txt```
+
+
+Made for javalabra_2016k-course.
