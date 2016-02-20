@@ -4,7 +4,7 @@ Contains simple script for downloading every repository from repos.txt (can actu
 
 Example usage:
 
-```./javalab_loader.sh repost.txt```
+```./javalab_loader.sh repos.txt```
 
 
 Made for javalabra_2016k-course.
